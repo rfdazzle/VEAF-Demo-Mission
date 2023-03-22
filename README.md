@@ -27,6 +27,7 @@ After *Chocolatey* is installed, use these simple commands in a elevated (admin)
 - 7zip : `choco install -y 7zip.commandline`
 - npm : `choco install -y nodejs`
 - yargs: `npm i yargs --save`
+- yarn: `npm install --global yarn`
 
 ### Build the mission
 
