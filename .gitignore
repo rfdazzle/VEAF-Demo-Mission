@@ -1,6 +1,6 @@
 /build
 /*.miz
-/node_modules/
+# /node_modules/
 /7za.exe
 /setup_*.cmd
 configuration.json
