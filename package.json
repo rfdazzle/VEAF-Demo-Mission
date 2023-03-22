@@ -4,6 +4,7 @@
   "description": "DCS mission with VEAF scripting",
   "dependencies": {
     "veaf-mission-creation-tools": "^5.0.0",
-    "yards": "^0.1.4"
+    "yards": "^0.1.4",
+    "yargs": "^17.7.1"
   }
 }
